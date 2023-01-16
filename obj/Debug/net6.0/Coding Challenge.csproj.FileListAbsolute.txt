@@ -1,0 +1,15 @@
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.csproj.AssemblyReference.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.AssemblyInfoInputs.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.AssemblyInfo.cs
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.csproj.CoreCompileInputs.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\bin\Debug\net6.0\Coding Challenge.exe
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\bin\Debug\net6.0\Coding Challenge.deps.json
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\bin\Debug\net6.0\Coding Challenge.runtimeconfig.json
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\bin\Debug\net6.0\Coding Challenge.dll
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\bin\Debug\net6.0\Coding Challenge.pdb
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.dll
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\refint\Coding Challenge.dll
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.pdb
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\Coding Challenge.genruntimeconfig.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge\obj\Debug\net6.0\ref\Coding Challenge.dll
